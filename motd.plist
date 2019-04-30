@@ -20,7 +20,7 @@
 			<key>disabled</key>
 			<integer>0</integer>
 			<key>messageContent</key>
-			<string>Succession is not yet tested on your device, proceed at your own risk.</string>
+			<string>Warning! Front camera will not work on this device model after restore, please wait for an update.</string>
 			<key>showMessage</key>
 			<integer>1</integer>
 			<key>warning</key>
@@ -31,7 +31,7 @@
 			<key>disabled</key>
 			<integer>0</integer>
 			<key>messageContent</key>
-			<string>Succession is not yet tested on your device, proceed at your own risk.</string>
+			<string>Warning! Front camera will not work on this device model after restore, please wait for an update. </string>
 			<key>showMessage</key>
 			<integer>1</integer>
 			<key>warning</key>
@@ -42,7 +42,7 @@
 			<key>disabled</key>
 			<integer>0</integer>
 			<key>messageContent</key>
-			<string>Succession is not yet tested on your device, proceed at your own risk.</string>
+			<string>Warning! Front camera will not work on this device model after restore, please wait for an update. </string>
 			<key>showMessage</key>
 			<integer>1</integer>
 			<key>warning</key>
@@ -53,7 +53,7 @@
 			<key>disabled</key>
 			<integer>0</integer>
 			<key>messageContent</key>
-			<string>Succession is not yet tested on your device, proceed at your own risk.</string>
+			<string>Warning! Front camera will not work on this device model after restore, please wait for an update. </string>
 			<key>showMessage</key>
 			<integer>1</integer>
 			<key>warning</key>
