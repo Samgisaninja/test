@@ -15,49 +15,16 @@
 	</dict>
 	<key>deviceModels</key>
 	<dict>
-		<key>iPhone11,2</key>
-		<dict>
-			<key>disabled</key>
-			<integer>0</integer>
-			<key>messageContent</key>
-			<string>Warning! Front camera will not work on this device model after restore, please wait for an update.</string>
-			<key>showMessage</key>
-			<integer>1</integer>
-			<key>warning</key>
-			<integer>1</integer>
-		</dict>
-		<key>iPhone11,4</key>
-		<dict>
-			<key>disabled</key>
-			<integer>0</integer>
-			<key>messageContent</key>
-			<string>Warning! Front camera will not work on this device model after restore, please wait for an update. </string>
-			<key>showMessage</key>
-			<integer>1</integer>
-			<key>warning</key>
-			<integer>1</integer>
-		</dict>
-		<key>iPhone11,6</key>
-		<dict>
-			<key>disabled</key>
-			<integer>0</integer>
-			<key>messageContent</key>
-			<string>Warning! Front camera will not work on this device model after restore, please wait for an update. </string>
-			<key>showMessage</key>
-			<integer>1</integer>
-			<key>warning</key>
-			<integer>1</integer>
-		</dict>
 		<key>iPhone11,8</key>
 		<dict>
 			<key>disabled</key>
 			<integer>0</integer>
 			<key>messageContent</key>
-			<string>Warning! Front camera will not work on this device model after restore, please wait for an update. </string>
+			<string>WE ALL GOOD IN THE HOOD</string>
 			<key>showMessage</key>
-			<integer>1</integer>
+			<integer>0</integer>
 			<key>warning</key>
-			<integer>1</integer>
+			<integer>0</integer>
 		</dict>
 	</dict>
 	<key>iOSVersions</key>
@@ -218,6 +185,17 @@
 			<integer>1</integer>
 			<key>warning</key>
 			<integer>0</integer>
+		</dict>
+		<key>1.2.4</key>
+		<dict>
+			<key>disabled</key>
+			<integer>0</integer>
+			<key>messageContent</key>
+			<string>If you&apos;re on an A12 device, please add https://samgisaninja.github.io/ to your sources and update to version 1.3 before using Succession</string>
+			<key>showMessage</key>
+			<integer>1</integer>
+			<key>warning</key>
+			<integer>1</integer>
 		</dict>
 	</dict>
 </dict>
