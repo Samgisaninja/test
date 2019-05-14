@@ -1,2 +1,0 @@
-#!/bin/bash
-PERL5LIB="/usr/local/Cellar/dpkg/1.19.5/libexec/lib/perl5" exec "/usr/local/Cellar/dpkg/1.19.5/libexec/bin/dpkg-scanpackages" "$@"
