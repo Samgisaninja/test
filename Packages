@@ -1,0 +1,16 @@
+Package: com.samgisaninja.successioncli
+Version: 1.0~alpha2
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja, demhademha
+Installed-Size: 388
+Depends: coreutils-bin, coreutils, firmware-sbin, rsync, curl, p7zip, grep, gawk
+Filename: ./debs/com.samgisaninja.successioncli_1.0~alpha2_iphoneos-arm.deb
+Size: 34712
+MD5sum: 0b15b3305c69925199572e323a6a7793
+SHA1: 016f4e5b05f0a23ed3bc4886620c60670a17bad1
+SHA256: 99c9129336bcf2e858acb5025820f96dd24ed5c1f59a66c9d7eab7d9b159cb39
+Section: Utilities
+Description: Restore without updating via rootfilesystem DMG
+Author: Samg_is_a_Ninja <samgisaninja@unc0ver.dev>, demhademha
+Name: SuccessionCLI
+
