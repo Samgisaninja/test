@@ -15,31 +15,15 @@ Author: Samg_is_a_Ninja <samgisaninja@unc0ver.dev>, demhademha
 Name: SuccessionCLI
 
 Package: com.samgisaninja.successionrestore
-Version: 1.4.15~b5
+Version: 1.4.15~b7
 Architecture: iphoneos-arm
 Maintainer: Samg_is_a_Ninja
 Depends: firmware-sbin, rsync
-Filename: ./debs/com.samgisaninja.successionrestore_1.4.15~b5_iphoneos-arm.deb
-Size: 1183680
-MD5sum: a7def04077264ca549053985ad8e32fc
-SHA1: c5c64cf93eeb8eaa7ab4a293b85d657f9ccb3b48
-SHA256: c4ca8e474217038440549b04ee0f148e7b27cc4c02caa190d3bb6c92bae09b3f
-Section: Utilities
-Description: Restore without updating via rootfilesystem DMG
-Author: Samg_is_a_Ninja
-Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
-Name: Succession
-
-Package: com.samgisaninja.successionrestore
-Version: 1.4.15~b6
-Architecture: iphoneos-arm
-Maintainer: Samg_is_a_Ninja
-Depends: firmware-sbin, rsync
-Filename: ./debs/com.samgisaninja.successionrestore_1.4.15~b6_iphoneos-arm.deb
-Size: 1183672
-MD5sum: 67f8138d1734d2ab7ddaff18d4c3d2c4
-SHA1: b21052e2572b9a129278d62cb3cbc9f712c57e94
-SHA256: 34d13385abd74fda7b233646ca1ac739bc47e2059efad452e1f4a8d5ecfab5f9
+Filename: ./debs/com.samgisaninja.successionrestore_1.4.15~b7_iphoneos-arm.deb
+Size: 1175822
+MD5sum: 2a487f4d1330518d1717851c2e4d177b
+SHA1: 76ee68b161ebb71457224e9de16bae8f15063312
+SHA256: e089b0bcb4de83fcef41d3b209738de29612fc87368852d2e7b0679d8d4e43f5
 Section: Utilities
 Description: Restore without updating via rootfilesystem DMG
 Author: Samg_is_a_Ninja
